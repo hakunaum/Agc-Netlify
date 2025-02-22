@@ -1,5 +1,5 @@
 {
-  "name": "agc netlify",
+  "name": "agc",
   "version": "1.0.0",
   "description": "agc nodejs for netlify",
   "main": "functions/core.js",
